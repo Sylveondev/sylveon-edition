@@ -1,0 +1,7 @@
+{
+	"name": "Memz",
+	"description": "A compilation of the Memz album charted in fnf. This is bundled with Sylveon Edition.",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "The Eeveelution House",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "youtubers",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"strawberry",
+			"sylvest",
+			[
+				225,
+				225,
+				225
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "youtubers"
+}

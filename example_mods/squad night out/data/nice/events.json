@@ -1,0 +1,21 @@
+{
+	"song": {
+		"events": [
+			[
+				27428.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						"0.3"
+					],
+					[
+						"Toggle FlxTrail",
+						"dad",
+						"on"
+					]
+				]
+			]
+		]
+	}
+}

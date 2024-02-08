@@ -1,0 +1,48 @@
+{
+	"storyName": "The cheese week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "flarey",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"platforms",
+			"flarey",
+			[
+				225,
+				225,
+				225
+			]
+		],[
+			"levels",
+			"flarey",
+			[
+				225,
+				225,
+				225
+			]
+		],[
+			"reeves",
+			"flarey",
+			[
+				225,
+				225,
+				225
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "flarey"
+}

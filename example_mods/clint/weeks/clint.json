@@ -1,0 +1,56 @@
+{
+	"storyName": "The Clint Bros",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "clint",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"cats",
+			"kiera",
+			[
+				225,
+				225,
+				225
+			]
+		],[
+			"epico",
+			"anthony",
+			[
+				225,
+				225,
+				225
+			]
+		],[
+			"evan-style",
+			"evan",
+			[
+				225,
+				225,
+				225
+			]
+		],[
+			"losing",
+			"jacob",
+			[
+				225,
+				225,
+				225
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Clint"
+}

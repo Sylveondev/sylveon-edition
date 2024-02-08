@@ -1,0 +1,48 @@
+{
+	"storyName": "Foxi because I think so",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "foxi",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"fox",
+			"foxi",
+			[
+				225,
+				225,
+				225
+			]
+		],[
+			"pizza",
+			"foxi",
+			[
+				225,
+				225,
+				225
+			]
+		],[
+			"universe",
+			"foxi",
+			[
+				225,
+				225,
+				225
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "foxi"
+}

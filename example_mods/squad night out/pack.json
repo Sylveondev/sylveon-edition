@@ -1,0 +1,7 @@
+{
+	"name": "Squad Night Out",
+	"description": "Rap against the Eeveelutions. This is bundled with Sylveon Edition.",
+	"restart":true,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}

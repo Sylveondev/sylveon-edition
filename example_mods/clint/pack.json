@@ -1,0 +1,7 @@
+{
+	"name": "The Clint Bros",
+	"description": "Fight the Clint Bros in a few rap battles or something. Bundled with Sylveon Edition.",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}
