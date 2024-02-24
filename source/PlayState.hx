@@ -563,6 +563,13 @@ class PlayState extends MusicBeatState
 			case 'space':
 				var bg:BGSprite = new BGSprite('spaceback', -600, -200, 0.9, 0.9);
 				add(bg);
+			
+			case 'white': //Fluffy
+				
+				var bg:BGSprite = new BGSprite(null, -FlxG.width, -FlxG.height, 0, 0);
+				bg.makeGraphic(Std.int(FlxG.width * 3), Std.int(FlxG.height * 3), FlxColor.WHITE);
+				
+				add(bg);
 
 			case 'stage': //Week 1
 				var bg:BGSprite = new BGSprite('stageback', -600, -200, 0.9, 0.9);
