@@ -3531,7 +3531,7 @@
 		"player2": "speedy",
 		"splashSkin": "noteSplashes",
 		"song": "spark",
-		"needsVoices": false,
+		"needsVoices": true,
 		"arrowSkin": "",
 		"stage": "treehouseb",
 		"validScore": true,

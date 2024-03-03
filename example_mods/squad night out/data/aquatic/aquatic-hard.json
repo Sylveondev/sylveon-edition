@@ -4324,7 +4324,7 @@
 		"gfVersion": "gf",
 		"bpm": 140,
 		"arrowSkin": "",
-		"needsVoices": false,
+		"needsVoices": true,
 		"song": "aquatic"
 	}
 }

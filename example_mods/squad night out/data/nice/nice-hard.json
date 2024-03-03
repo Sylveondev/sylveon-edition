@@ -6149,7 +6149,7 @@
 		"validScore": true,
 		"stage": "space",
 		"arrowSkin": "",
-		"needsVoices": false,
+		"needsVoices": true,
 		"speed": 3.2,
 		"bpm": 140
 	}

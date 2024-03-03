@@ -4638,7 +4638,7 @@
 		"player2": "flare",
 		"splashSkin": "noteSplashes",
 		"song": "outburst",
-		"needsVoices": false,
+		"needsVoices": true,
 		"arrowSkin": "",
 		"stage": "treehouse",
 		"validScore": true,

@@ -7325,7 +7325,7 @@
 		"validScore": true,
 		"stage": "treehouse",
 		"arrowSkin": "",
-		"needsVoices": false,
+		"needsVoices": true,
 		"speed": 2.8,
 		"bpm": 180
 	}

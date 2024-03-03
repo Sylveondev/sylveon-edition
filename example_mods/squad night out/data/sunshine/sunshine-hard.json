@@ -2300,7 +2300,7 @@
 		"player2": "sunshine",
 		"splashSkin": "noteSplashes",
 		"song": "sunshine",
-		"needsVoices": false,
+		"needsVoices": true,
 		"arrowSkin": "",
 		"stage": "treehouse",
 		"validScore": true,

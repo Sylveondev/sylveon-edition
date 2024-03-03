@@ -6309,7 +6309,7 @@
 		"validScore": true,
 		"stage": "treehouse",
 		"arrowSkin": "",
-		"needsVoices": false,
+		"needsVoices": true,
 		"speed": 2.6,
 		"bpm": 165
 	}

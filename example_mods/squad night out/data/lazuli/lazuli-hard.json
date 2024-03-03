@@ -3934,7 +3934,7 @@
 		"player2": "lazuli",
 		"splashSkin": "noteSplashes",
 		"song": "lazuli",
-		"needsVoices": false,
+		"needsVoices": true,
 		"arrowSkin": "",
 		"stage": "treehouse",
 		"validScore": true,

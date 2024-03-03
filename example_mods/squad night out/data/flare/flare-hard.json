@@ -3714,7 +3714,7 @@
 		"player2": "flare",
 		"splashSkin": "noteSplashes",
 		"song": "flare",
-		"needsVoices": false,
+		"needsVoices": true,
 		"arrowSkin": "",
 		"stage": "treehouse",
 		"validScore": true,

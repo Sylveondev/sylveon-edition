@@ -1,20 +1,25 @@
 {
-	"songs": [
+	"_removed": [
 		["sunshine", "sunshine", [165, 0, 77]],
-		["swell", "sunshine", [165, 0, 77]],
-		["my-friends", "sunshine", [165, 0, 77]],
 		["spark", "speedy", [255, 255, 0]],
 		["speeding", "speedy", [255, 225, 0]],
-		["fast", "speedy", [255, 255, 255]],
 		["darkglow", "black", [50, 50, 50]],
-		["smirk", "black", [255, 255, 255]],
+		["losing", "black", [50, 50, 50]],
+		["fluffy", "fluffy", [255, 255, 255]]
+	],
+	"songs": [
+		["swell", "sunshine", [165, 0, 77]],
+		["my-friends", "sunshine", [165, 0, 77]],
+		["fast", "speedy", [255, 255, 255]],
+		["lightning", "speedy", [255, 255, 255]],
+		["smirk", "black", [50, 50, 50]],
+		["laugh", "black", [255, 255, 255]],
 		["magical", "pearl", [255, 255, 255]],
 		["diamonds", "crystal", [255, 255, 255]],
 		["aquatic", "crystal", [255, 255, 255]],
 		["leaf", "leafemoji", [165, 0, 77]],
 		["flare", "flare", [255, 255, 255]],
 		["outburst", "flare", [255, 255, 255]],
-		["fluffy", "fluffy", [255, 255, 255]],
 		["lazuli", "lazuli", [255, 255, 255]],
 		["feelings", "sylvia", [255, 255, 255]],
 		["nice", "spacesylvia", [255, 255, 255]]
