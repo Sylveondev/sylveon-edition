@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				27
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				72
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				74
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-209,
+				110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				51
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				74
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DownMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-209,
+				110
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RightMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				72
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UpMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				51
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LeftMiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fembf",
+	"position": [
+		50,
+		160
+	],
+	"healthicon": "bfgirl",
+	"flip_x": true,
+	"healthbar_colors": [
+		105,
+		218,
+		241
+	],
+	"camera_position": [
+		-45,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}
