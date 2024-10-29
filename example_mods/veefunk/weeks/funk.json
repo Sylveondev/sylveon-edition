@@ -1,0 +1,32 @@
+{
+	"storyName": "I want nom noms yummy in my tum tums",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "veefunk",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"deprived",
+			"vaporeon",
+			[
+				225,
+				225,
+				225
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "veefunk"
+}

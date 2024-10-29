@@ -564,6 +564,11 @@ class PlayState extends MusicBeatState
 				var bg:BGSprite = new BGSprite('spaceback', -600, -200, 0.9, 0.9);
 				add(bg);
 			
+			case 'flipaclipstage':
+				var bg:BGSprite = new BGSprite('flipaclip', -600, -200, 1, 1);
+				bg.setGraphicSize(Std.int(bg.width * 0.9));
+				add(bg);
+			
 			case 'white': //Fluffy
 				
 				var bg:BGSprite = new BGSprite(null, -FlxG.width, -FlxG.height, 0, 0);
@@ -1350,7 +1355,7 @@ class PlayState extends MusicBeatState
 			songTxt.visible = false;
 		}
 		add(songTxt);
-		songTxt.text = curSong + " (" + storyDifficultyText + ") " + "| OS " + MainMenuState.osEngineVersion;
+		songTxt.text = curSong + " (" + storyDifficultyText + ") " + "| Sylv Edition | OS " + MainMenuState.osEngineVersion;
 
 		botplayTxt = new FlxText(400, timeBarBG.y + 55, FlxG.width - 800, "BOTPLAY", 32);
 		botplayTxt.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);

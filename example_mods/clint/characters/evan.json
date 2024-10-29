@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-17,
 				32
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up0"
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-40,
 				-17
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down0"
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-29,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right0"
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				11,
 				1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left0"
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/evan",
 	"position": [
 		50,
-		240
+		200
 	],
 	"healthicon": "evan",
 	"flip_x": false,

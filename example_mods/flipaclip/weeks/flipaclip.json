@@ -1,5 +1,5 @@
 {
-	"storyName": "Drake the transgender cat",
+	"storyName": "Drake the transgender cat and friends",
 	"difficulties": "hard",
 	"hideFreeplay": false,
 	"weekBackground": "flipaclip",
@@ -15,6 +15,24 @@
 		[
 			"flipaclip",
 			"drake",
+			[
+				225,
+				225,
+				225
+			]
+		],
+		[
+			"el-perro",
+			"dog",
+			[
+				225,
+				225,
+				225
+			]
+		],
+		[
+			"vappy",
+			"vappy",
 			[
 				225,
 				225,

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				27
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				42
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				51
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dog",
+	"position": [
+		-400,
+		-260
+	],
+	"healthicon": "dog",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		169,
+		84
+	],
+	"camera_position": [
+		250,
+		420
+	],
+	"sing_duration": 4,
+	"scale": 0.55
+}

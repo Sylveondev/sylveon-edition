@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["autumn", "leafemoji", [165, 0, 77]],
+		["leaf", "leafemoji", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "chapter2",
+	"startUnlocked": true,
+	"difficulties": "hard",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

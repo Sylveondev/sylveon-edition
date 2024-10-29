@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-13,
-				27
+				-14,
+				28
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				23,
-				92
+				-7,
+				112
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				1,
-				4
+				69,
+				-136
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-119,
-				70
+				-49,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				171,
-				11
+				61,
+				7
 			],
 			"loop": false,
 			"fps": 24,
@@ -59,8 +59,8 @@
 	"no_antialiasing": false,
 	"image": "characters/drake",
 	"position": [
-		50,
-		100
+		-20,
+		40
 	],
 	"healthicon": "drake",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		255
 	],
 	"camera_position": [
-		25,
-		100
+		15,
+		180
 	],
 	"sing_duration": 4,
-	"scale": 0.95
+	"scale": 0.75
 }

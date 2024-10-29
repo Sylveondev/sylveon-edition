@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				190
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 12,
+			"name": "Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-133,
 				249
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
+			"fps": 12,
+			"name": "Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-130,
 				162
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down"
+			"fps": 12,
+			"name": "Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-88,
 				264
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Right"
+			"fps": 12,
+			"name": "Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-97,
 				275
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Left"
+			"fps": 12,
+			"name": "Left",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -62,12 +62,12 @@
 		-100,
 		360
 	],
-	"healthicon": "leafy",
+	"healthicon": "leafemoji",
 	"flip_x": true,
 	"healthbar_colors": [
-		78,
-		78,
-		78
+		130,
+		255,
+		130
 	],
 	"camera_position": [
 		60,
