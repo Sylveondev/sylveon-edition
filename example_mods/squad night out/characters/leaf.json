@@ -7,72 +7,72 @@
 				190
 			],
 			"anim": "idle",
-			"fps": 12,
+			"fps": 24,
 			"name": "Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-133,
-				249
+				980,
+				190
 			],
 			"anim": "singUP",
-			"fps": 12,
+			"fps": 24,
 			"name": "Up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-130,
-				162
+				-2,
+				164
 			],
 			"anim": "singDOWN",
-			"fps": 12,
+			"fps": 24,
 			"name": "Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-88,
-				264
+				152,
+				160
 			],
 			"anim": "singLEFT",
-			"fps": 12,
-			"name": "Right",
+			"fps": 24,
+			"name": "Left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-97,
-				275
+				-99,
+				205
 			],
 			"anim": "singRIGHT",
-			"fps": 12,
-			"name": "Left",
+			"fps": 24,
+			"name": "Right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/leafy",
 	"position": [
-		-100,
-		360
+		-80,
+		390
 	],
 	"healthicon": "leafemoji",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		130,
 		255,
 		130
 	],
 	"camera_position": [
-		60,
-		-120
+		-60,
+		-70
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.1
 }
