@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				190
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 12,
-			"name": "Idle",
-			"indices": []
+			"indices": [],
+			"name": "Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-2,
-				177
-			],
-			"anim": "singUP",
-			"fps": 12,
-			"name": "Up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				15,
-				152
-			],
-			"anim": "singDOWN",
-			"fps": 12,
-			"name": "Down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				30,
-				180
-			],
-			"anim": "singLEFT",
-			"fps": 12,
-			"name": "Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-100,
+				-10,
 				190
 			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				8,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				120,
+				138
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-70,
+				136
+			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 12,
-			"name": "Right",
-			"indices": []
+			"indices": [],
+			"name": "Right"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/sylvia",
 	"position": [
-		10,
-		60
+		0,
+		270
 	],
 	"healthicon": "sylvia",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		246
 	],
 	"camera_position": [
-		0,
-		-200
+		-20,
+		-60
 	],
 	"sing_duration": 4,
-	"scale": 1.5
+	"scale": 1
 }
